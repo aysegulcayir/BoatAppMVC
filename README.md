@@ -41,3 +41,8 @@ Please make sure to update tests as appropriate.
 
 ## Credits
 We wrote this application together Ehsan Muradi and Ibrahim Sahin as a team.
+
+## Flow Chart
+
+![image](https://user-images.githubusercontent.com/49029525/130757571-35b0a026-b317-42ca-9f39-42fd1d76f82b.png)
+
